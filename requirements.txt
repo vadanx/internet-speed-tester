@@ -1,0 +1,7 @@
+black==23.9.1
+loguru==0.7.2
+matplotlib==3.8.0
+pre-commit==3.4.0
+pycodestyle==2.11.0
+pytz==2023.3.post1
+speedtest-cli==2.1.3

@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# Except
+!internet-speed-tester.py
+!requirements.txt
